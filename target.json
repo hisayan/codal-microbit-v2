@@ -68,8 +68,8 @@
         },
         {
             "name":"codal-microbit-nrf5sdk",
-            "url":"https://github.com/microbit-foundation/codal-microbit-nrf5sdk",
-            "branch":"master",
+            "url":"https://github.com/hisayan/codal-microbit-nrf5sdk",
+            "branch":"s140",
             "type":"git"
         }
     ]
